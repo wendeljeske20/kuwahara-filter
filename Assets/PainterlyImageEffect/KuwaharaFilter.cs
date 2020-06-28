@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 [ExecuteInEditMode]
-public class PainterlyImageEffect : MonoBehaviour
+public class KuwaharaFilter : MonoBehaviour
 {
 	[Range(0, 10)]
 	public float intensity;
